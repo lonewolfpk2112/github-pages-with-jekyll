@@ -3,7 +3,7 @@ author: Priyanshu Kumar
 email: Shashi.priyanshu@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   this is a blog
-theme: cayan
+theme: jekyll-theme-slate
 # social links
 twitter_username: 7301202438 # DO NOT include the @ character, or else the build will fail!
 github_username:  lonewolfpk2112 # DO NOT include the @ character, or else the build will fail!
