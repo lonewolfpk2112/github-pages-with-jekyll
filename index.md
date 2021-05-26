@@ -1,5 +1,5 @@
 ---
-title: "Priyanshu Kumar"
+title: Priyanshu Kumar
 layout: post
 date: 2021-05-26
 
